@@ -15,6 +15,7 @@
     </tr>
   </table>
 </div>
+
 This project reconstructs the geometry of a cylindrical vault from a **single uncalibrated image**, using techniques from **projective geometry** and **computer vision**.
 
 Starting from manually extracted geometric features, the pipeline:
