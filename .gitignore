@@ -1,0 +1,29 @@
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# MATLAB
+# =========================
+*.asv            # autosave files
+*.m~             # backup files
+*.mlx~           # live script backups
+*.fig            # figures
+
+# MATLAB preferences / cache (if any)
+prefdir/
+*.prf
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Temporary / logs
+# =========================
+*.log
+tmp/
+temp/
